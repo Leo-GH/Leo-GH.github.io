@@ -6,7 +6,7 @@
     letter-spacing: 0 !important;
     line-height: 2.5 !important;
     margin: 0 auto !important;
-    max-width: 914px !important;
+    max-width: 1444px !important;
     overflow-x: hidden !important;
     padding: 1rem 4rem 100px !important;
     word-spacing: .1rem !important
@@ -26,7 +26,7 @@
 }
 
 .confluence-markdown-editor-content a {
-    color: #745fb5 !important;
+    color: #1E90FF !important;
     text-decoration: none !important
 }
 
@@ -58,7 +58,7 @@
 }
 
 .confluence-markdown-editor-content h1:after {
-    border-bottom: 2px solid #8064a9 !important;
+    border-bottom: 2px solid #1E90FF !important;
     content: "" !important;
     display: block !important;
     height: 2px !important;
@@ -67,8 +67,8 @@
 }
 
 .confluence-markdown-editor-content h2 {
-    border-bottom: 1px solid #8064a9 !important;
-    border-left: 6px solid #8064a9 !important;
+    border-bottom: 1px solid #1E90FF !important;
+    border-left: 6px solid #1E90FF !important;
     font-size: 1.75em !important;
     padding-left: .4em !important
 }
@@ -86,7 +86,7 @@
 }
 
 .confluence-markdown-editor-content hr {
-    border-top: 1px solid #8064a9 !important;
+    border-top: 1px solid #1E90FF !important;
     margin: 1.5em auto !important
 }
 
